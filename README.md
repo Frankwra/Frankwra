@@ -2,11 +2,11 @@
 
  
 
-## I'm Frank William!!!
+## I'm Frank William!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Future Front-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
@@ -20,7 +20,17 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=)]()
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankwra&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankwra&layout=compact)](https://github.com/frankwra/github-readme-stats)
+
+
+
+
+
+
+
+
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 - Thanks for visiting.
