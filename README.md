@@ -6,13 +6,13 @@
 
  
 
-:computer: Future Front-End Developer!
+:computer: Future ANDROID Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning HTML5, CSS3 and Javascript.
+:books: I’m currently learning KOTTLIN and JAVA.
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: work as an android developer.
 
  
 
