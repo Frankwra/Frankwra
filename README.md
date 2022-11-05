@@ -26,7 +26,7 @@
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=frankwra&layout=compact&theme=radical)
 
-<img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
+[<img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
 <br>
 
 :books: I’m currently learning <br>
