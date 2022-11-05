@@ -27,8 +27,6 @@
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=frankwra&layout=compact&theme=radical)
 
 <img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
-<img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 
 :books: I’m currently learning <br>
