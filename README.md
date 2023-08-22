@@ -6,11 +6,11 @@
 
  
 
-:computer: Future ANDROID Developer!
+:computer: Future Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning KOTTLIN and JAVA.
+:books: I’m currently learning REACT and REACT NATIVE.
 
 :outbox_tray: 2024 Goals: work as developer.
 
