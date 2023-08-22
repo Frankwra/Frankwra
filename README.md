@@ -12,7 +12,7 @@
 
 :books: I’m currently learning KOTTLIN and JAVA.
 
-:outbox_tray: 2022 Goals: work as an android developer.
+:outbox_tray: 2024 Goals: work as developer.
 
  
 
